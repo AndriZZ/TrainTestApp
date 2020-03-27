@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TrainsTestApp</string>
+    <string name="shankill">Shankill</string>
+    <string name="southbound">Southbound</string>
+    <string name="northbound">Northbound</string>
+    <string name="bray">Bray</string>
+    <string name="from_place_a_to_place_b">From Place A to Place B</string>
+    <string name="departure_time_19_10">Departure time: 19:10</string>
+    <string name="location">Location</string>
+    <string name="arrival_example">Arrival time: 19:10</string>
+    <string name="shankill_to_arklow">Shankill to Arklow</string>
+    <string name="arklow_to_shankill">Arklow to Shankill</string>
+</resources>
